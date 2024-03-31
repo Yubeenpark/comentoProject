@@ -1,0 +1,101 @@
+[28/Jan/2021 20:46:50] ERROR [post.views:224] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[28/Jan/2021 20:48:10] ERROR [post.views:223] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[28/Jan/2021 20:55:13] ERROR [post.views:223] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[28/Jan/2021 20:56:43] ERROR [post.views:223] Exception='QueryDict' object has no attribute 'content' while creating new comment
+[28/Jan/2021 21:07:50] ERROR [post.views:224] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[28/Jan/2021 21:10:56] ERROR [post.views:224] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[28/Jan/2021 21:11:47] ERROR [post.views:224] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[28/Jan/2021 21:15:52] ERROR [post.views:224] Exception=name 'views' is not defined while creating new comment
+[28/Jan/2021 21:16:28] ERROR [post.views:224] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[28/Jan/2021 21:23:07] ERROR [post.views:224] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[28/Jan/2021 21:24:46] ERROR [post.views:224] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[28/Jan/2021 21:30:55] ERROR [post.views:224] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[28/Jan/2021 21:58:07] DEBUG [accounts:85] Google login success user id=25. Profile already exists
+[28/Jan/2021 21:58:12] ERROR [post.views:225] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 15:59:20] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 15:59:23] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 15:59:23] ERROR [post.views:260] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 15:59:26] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 15:59:26] ERROR [post.views:260] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 15:59:34] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 15:59:34] ERROR [post.views:260] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 15:59:34] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 15:59:34] ERROR [post.views:260] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 15:59:35] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 15:59:35] ERROR [post.views:260] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 16:05:02] DEBUG [post.views:287] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:05:04] DEBUG [post.views:287] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:05:04] DEBUG [post.views:287] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:05:04] DEBUG [post.views:287] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:05:05] DEBUG [post.views:287] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:05:10] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:05:10] ERROR [post.views:261] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 16:05:46] DEBUG [post.views:287] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:05:48] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:05:48] ERROR [post.views:261] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 16:05:50] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:05:50] ERROR [post.views:261] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 16:08:20] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:08:20] ERROR [post.views:261] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 16:09:37] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:09:37] ERROR [post.views:261] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 16:09:45] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:09:45] ERROR [post.views:261] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 16:10:34] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:10:34] ERROR [post.views:261] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 16:10:38] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:10:38] ERROR [post.views:261] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 16:10:50] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:10:50] ERROR [post.views:261] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 16:11:38] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:11:38] ERROR [post.views:261] Exception=Notification() got an unexpected keyword argument 'comment' while creating new comment
+[02/Feb/2021 16:14:00] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:14:00] ERROR [post.views:261] Exception=create_notification() missing 1 required positional argument: 'comment' while creating new comment
+[02/Feb/2021 16:17:43] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:17:49] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:18:21] DEBUG [post.views:252] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[02/Feb/2021 16:20:56] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:57] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:57] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:57] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:58] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:58] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:58] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:58] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:58] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:59] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:59] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:59] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 16:20:59] DEBUG [post.views:286] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[02/Feb/2021 23:08:29] INFO [post.views:183] user=31 like post=4
+[03/Feb/2021 03:43:01] DEBUG [post.views:257] user=saram create comment to post=4.
+[04/Feb/2021 00:37:03] DEBUG [post.views:269] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 00:37:10] DEBUG [post.views:303] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 00:43:48] DEBUG [post.views:269] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 00:43:54] DEBUG [post.views:307] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 00:47:10] DEBUG [post.views:269] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 00:49:07] DEBUG [post.views:309] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 00:50:11] DEBUG [post.views:269] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 00:50:14] DEBUG [post.views:310] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 00:50:35] DEBUG [post.views:269] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 00:50:38] DEBUG [post.views:310] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 00:51:20] DEBUG [post.views:269] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 00:51:24] DEBUG [post.views:310] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 00:57:32] DEBUG [post.views:269] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 00:57:36] DEBUG [post.views:310] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 01:02:19] DEBUG [post.views:269] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 01:02:27] DEBUG [post.views:310] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 01:24:57] DEBUG [post.views:270] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 01:25:02] DEBUG [post.views:311] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 01:26:36] DEBUG [post.views:270] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 01:26:38] DEBUG [post.views:311] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 01:27:49] DEBUG [post.views:270] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 01:27:51] DEBUG [post.views:312] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 01:29:47] DEBUG [post.views:270] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 01:30:18] DEBUG [post.views:310] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 01:30:27] DEBUG [post.views:270] user=yoobinparkcbea4e4c2a814f5f create comment to post=4.
+[04/Feb/2021 01:30:30] DEBUG [post.views:310] user=yoobinparkcbea4e4c2a814f5f delete comment in post=None.
+[04/Feb/2021 01:30:50] INFO [post.views:189] user=31 cancel liking post=4
+[04/Feb/2021 01:30:52] INFO [post.views:192] user=31 like post=4
+[04/Feb/2021 01:33:21] INFO [post.views:191] user=31 cancel liking post=4
+[04/Feb/2021 01:33:27] INFO [post.views:194] user=31 like post=4
